@@ -1,0 +1,97 @@
+.section-data {
+	background-color: #2b342b;
+
+}
+
+.data-image {
+	padding: 100px 0 100px 0;
+	margin: 0 auto;
+	width: 600px;
+	text-align: center;
+}
+
+.data-header {
+	padding-top: 40px;
+	color: white;
+}
+
+.data-subheader {
+	padding-top: 20px;
+	color: white;
+}
+
+.data-watermelon {
+	position: relative;
+	padding-top: 60px;
+	
+}
+
+.data-watermelon-img {
+	
+	
+}
+
+.section-data-calories {
+	position: absolute;
+	top: 60%;
+
+}
+
+.section-data-calories::after {
+	position: absolute;
+	content: "Calories  35kcal";
+	color: white;
+	top: 20%;
+	left: 0;
+
+}
+
+.section-data-fat {
+	position: absolute;
+	top: 87%;
+	left: 18%;
+
+}
+
+.section-data-fat::after {
+	position: absolute;
+	content: "Fat 0,63g";
+	color: white;
+	top: -40%;
+	left: 0;
+
+}
+
+.section-data-water {
+	position: absolute;
+	top: 67%;
+	left: 62%;
+
+}
+
+.section-data-water::after {
+	position: absolute;
+	content: "Water  92%";
+	color: white;
+	top: -40%;
+	left: 60%;
+
+}
+
+.section-data-protein {
+	position: absolute;
+	top: 27%;
+	left: 62%;
+
+}
+
+.section-data-protein::after {
+	position: absolute;
+	content: "Protein  0,63g";
+	color: white;
+	top: -30%;
+	left: 40%;
+
+}
+
+

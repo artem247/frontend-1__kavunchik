@@ -1,0 +1,30 @@
+.watermelon-footer {
+	padding-top: 80px;
+}
+
+.footer-item {
+	padding-left: 20px;
+	font-size: 18px;
+	color: #747373;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.footer-menu {
+	text-align: left;
+	padding: 40px 10px 40px
+
+}
+
+.copyright {
+	padding-left: 30px;
+	padding-bottom: 30px;
+	color: #958f8f;
+}
+
+.circle {
+    background: #f00;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

@@ -1,0 +1,22 @@
+.white-section-image {
+	padding: 100px 0 100px 0;
+	margin: 0 auto;
+	width: 600px;
+	text-align: center;
+}
+
+.white-section-header {
+	padding-top: 40px;
+	color: #4e4e4e;
+}
+
+.white-section-subheader {
+	padding-top: 20px;
+	color: #737070;
+}
+
+.white-section-watermelon {
+	padding-top: 80px;
+	color: #737070;
+}
+

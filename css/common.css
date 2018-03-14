@@ -1,0 +1,17 @@
+body {
+	font-family: MyriadPro, sans-serif;
+}
+
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+.header {
+	font-size: 48px;
+
+}
+
+.subheader {
+	font-size: 28px;
+}

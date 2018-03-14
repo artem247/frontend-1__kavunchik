@@ -1,0 +1,106 @@
+
+
+.header-container {
+	background: radial-gradient( circle,  #4c7b4e, #355936);
+	background: radial-gradient( circle,  #4c7b4e, #355936);
+}
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+.menu {
+	text-align: justify;
+
+}
+
+.menu::after{
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 0;
+    font-size:0;
+    line-height:0;
+}
+
+.logo {
+	margin-left: 20px;
+	display: inline-block;
+	padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.logo-icon {
+		
+	
+}
+
+.logo-type {
+	
+	font-weight: 600;
+	padding-left: 10px;
+    font-size: 36px;
+    line-height: 40px;
+    vertical-align: inherit;
+    color: white;
+
+}
+
+
+.navigation-container {
+	display: inline-block;
+	text-align: right;
+	/* line-height: 140px; */
+}
+
+
+.nav-list {
+	display: inline-block;
+}
+
+.main-menu-item {
+	margin-left: 20px;
+    vertical-align: super;
+    color: white;
+    display: inline-block;
+    /* padding-left: 40px; */
+    /* padding: 10px; */
+    text-decoration: none;
+}
+
+
+.main-menu-item:hover {
+	color: #BBFFBB;
+}
+
+.cta {
+	border: 2px solid white;
+	padding: 10px;
+    margin-right: 20px;
+}
+
+.cta:hover {
+	background-color: white;
+	color: #00AA00;
+}
+
+
+.hero-image {
+	padding: 60px 0 60px 0;
+	margin: 0 auto;
+	width: 420px;
+	text-align: center;
+}
+
+.head-header {
+	color: white;
+
+}
+
+.watermelon-hero-1 {
+	display: inline-block;
+	width: 230px;
+	padding-top: 50%;
+	background-repeat: no-repeat;
+	background-image: url('../assets/hero-wm.png');
+}
